@@ -1,0 +1,19 @@
+/**
+ * Do not edit directly
+ * Generated on Sun, 26 Nov 2023 18:07:41 GMT
+ */
+
+:root {
+  --color-white: #ffffff;
+  --color-gray-200: #c1c1c4;
+  --color-gray-500: #50505c;
+  --color-gray-800: #1c1c1e;
+  --color-gray-900: #121214;
+  --color-purple-500: #8257e6;
+  --variable-collection-gray-200: #c1c1c4ff;
+  --variable-collection-gray-500: #50505cff;
+  --variable-collection-gray-800: #1c1c1eff;
+  --variable-collection-gray-900: #121214ff;
+  --variable-collection-white: #ffffffff;
+  --variable-collection-purple-500: #8257e6ff;
+}
